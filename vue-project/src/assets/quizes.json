@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "name": "Math",
+        "questions": 3,
+        "details" : " Math courses cover a wide range of topics depending on the educational level. In high school, students typically study algebra, geometry, trigonometry, and pre-calculus. At the undergraduate level, courses include calculus, linear algebra, statistics, and differential equations. Advanced and graduate-level studies delve into abstract algebra, real analysis, complex analysis, and topology. Each course builds on fundamental mathematical principles,fostering a deeper understanding of mathematical concepts and their applications."
+    },
+    {
+        "id": 2,
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "name": "Biology",
+        "questions": 5,
+        "details" : "Biology courses cover a wide range of topics, offering a comprehensive understanding of living organisms. In high school, students explore cell biology, genetics, ecology, and basic anatomy. At the undergraduate level, studies deepen with a focus on advanced topics such as molecular biology, microbiology, and biochemistry. Courses may also cover physiology, evolution, and environmental biology. Throughout, students gain insights into the complexities of life, from the molecular level to ecosystems, fostering a holistic understanding of biological systems and their interconnectedness."
+    },
+    {
+        "id": 3,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        "questions": 7,
+         "details": "Chemistry courses cover a broad spectrum of topics, providing a comprehensive understanding of the properties and behavior of matter. In high school, students explore general chemistry, including atomic structure, bonding, and basic thermodynamics. They also delve into inorganic and organic chemistry. At the undergraduate level, studies advance into analytical chemistry, biochemistry, and more in-depth topics in inorganic chemistry. The curriculum encompasses theoretical aspects such as thermodynamics, kinetics, and quantum mechanics. Throughout, students gain practical skills in chemical analysis and experimentation. The study of chemistry contributes to a profound comprehension of the molecular world, from the structure of atoms to the complexities of biological systems."
+    }
+]
